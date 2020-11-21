@@ -1,0 +1,5 @@
+SRC += muse.c
+
+AUDIO_ENABLE = no
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
